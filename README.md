@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="icon.png" height="300" />
+    <img src="images/icon.png" height="300" />
 </p>
 
 # WSL USB Device Manager
@@ -19,6 +19,12 @@ A powerful cross-platform USB device management tool specifically designed for W
 如果这个项目对你有帮助，请考虑给我们一个 **Star** ⭐！
 
 👆 点击右上角的 ⭐ **Star** 按钮！
+
+## 运行截图
+
+<p align="center">
+    <img src="images/screenshot_both.png" />
+</p>
 
 ## ✨ 特性
 
