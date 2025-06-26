@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="icon.png" height="300" />
+</p>
+
 # WSL USB Device Manager
 
 I've experienced slow compilation when developing with Arduino IDE on Windows, so I installed Arduino IDE in WSL2 instead. However, since device binding was cumbersome, I used AI to generate an automated binding tool. This tool is just a single Python file - super convenient!
