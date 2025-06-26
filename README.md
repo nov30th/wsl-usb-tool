@@ -14,6 +14,12 @@ A powerful cross-platform USB device management tool specifically designed for W
 
 一个强大的WSL USB设备管理工具，专为WSL(Windows Subsystem for Linux)环境设计，同时完美兼容Windows和Linux(WSL2)中运行。
 
+## ⭐ 喜欢这个项目吗？
+
+如果这个项目对你有帮助，请考虑给我们一个 **Star** ⭐！
+
+👆 点击右上角的 ⭐ **Star** 按钮！
+
 ## ✨ 特性
 
 ### 🔄 跨平台兼容性
